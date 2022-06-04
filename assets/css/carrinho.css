@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@500&display=swap');
+html {
+    scroll-behavior: smooth;
+    }
+body {
+    font-family: 'Mohave', sans-serif;
+    text-align: justify;
+    background-color: #fffffa;
+} 
+#entrada {
+    padding-top: 100px;
+}
+#titulo_entrada {
+    text-align: center;
+    font-weight: bold;
+}
+.txt_entrada {
+    text-align: center;
+    font-size: 18px;
+}
+.titulos {
+    border-bottom: 3px #940094 solid; 
+    width: 50%;
+    padding-bottom: 10px;
+}
+.imgs_intro {
+    width: 300px;
+    min-height: 220px;
+}
+.txt_intro {
+    width: 50%;
+    font-size: 22px;
+    color: green;
+}
+.imgs {
+    width: 200px;
+    min-height: 160px;
+}
+.linha_txt {
+    background-color: #198f89;
+    border-width: 3px;
+    width: 40%;
+}
+#tenis {
+    border-bottom: outset 5px #940094; 
+    border-top: outset 5px #940094;
+    border-left: #940094 5px dashed; 
+    border-right: #940094 5px dashed; 
+    padding-bottom: 50px; 
+    padding-top: 50px;
+    border-radius: 10%;
+}
+#bttn_carrinho_mostrar1 {
+    transition: 0.5s;
+    }       
+#bttn_carrinho_mostrar1:hover {
+transform: scale(1.1);
+}
+#bttn_carrinho_esconder1 {
+    transition: 0.5s;
+}           
+#bttn_carrinho_esconder1:hover {
+transform: scale(1.1);
+}
+#bttn_carrinho_mostrar2 {
+    transition: 0.5s;
+    }       
+#bttn_carrinho_mostrar2:hover {
+transform: scale(1.1);
+}
+#bttn_carrinho_esconder2 {
+    transition: 0.5s;
+}           
+#bttn_carrinho_esconder2:hover {
+transform: scale(1.1);
+}
+#bttn_carrinho_mostrar3 {
+    transition: 0.5s;
+    }       
+#bttn_carrinho_mostrar3:hover {
+transform: scale(1.1);
+}
+#bttn_carrinho_esconder3 {
+    transition: 0.5s;
+}           
+#bttn_carrinho_esconder3:hover {
+transform: scale(1.1);
+}
+
+#bttn_carrinho_mostrar4 {
+    transition: 0.5s;
+    }       
+#bttn_carrinho_mostrar4:hover {
+transform: scale(1.1);
+}
+#bttn_carrinho_esconder4 {
+    transition: 0.5s;
+}           
+#bttn_carrinho_esconder4:hover {
+transform: scale(1.1);
+}
